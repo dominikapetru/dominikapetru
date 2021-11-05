@@ -9,3 +9,6 @@
   
 <p align="center">Enthusiastic Data Scientist and Digital Consultant since 2021 using Python. Collaborative intelligence applied.</p>
 <br />
+
+<h2 align="center">My projects</h2>
+<br />
