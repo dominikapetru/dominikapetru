@@ -12,3 +12,13 @@
 
 <h2 align="center">My projects</h2>
 <br />
+  
+<p align="center">
+  <img width="400" src="https://github.com/dominikapetru/supervisat_regressio/blob/main/regressio.png" />
+  <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/dataprocessing.png" />
+  <a href="https://github.com/dominikapetru/supervisat_regressio">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
+  <a href="https://github.com/dominikapetru/app_mc">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=app_mc" />
+</a>
+</p>
