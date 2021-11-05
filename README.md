@@ -14,7 +14,7 @@
 <br />
   
 <p align="center">
-  <img width="400" src="https://github.com/dominikapetru/supervisat_regressio/blob/main/regressio.jpg" />
+  <img width="400" src="https://github.com/dominikapetru/supervisat_regressio/blob/main/regression.jpg" />
   <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/dataprocessing.jpg" />
   <a href="https://github.com/dominikapetru/supervisat_regressio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
