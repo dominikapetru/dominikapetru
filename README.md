@@ -18,7 +18,17 @@
   <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/dataprocessing.png" />
   <a href="https://github.com/dominikapetru/supervisat_regressio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
+  </a>
   <a href="https://github.com/dominikapetru/app_mc">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=app_mc" />
-</a>
+  </a>
+  
+  <img width="400" src="https://github.com/dominikapetru/supervisat_classificacio/blob/main/classification.png" />
+  <img width="400" src="https://github.com/dominikapetru/hypothesis-testing/blob/main/hypothesis.png" />
+  <a href="https://github.com/dominikapetru/supervisat_classificacio">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_classificacio" />
+  </a>
+  <a href="https://github.com/dominikapetru/hypothesis-testing">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=hypothesis-testing" />
+  </a>
 </p>
