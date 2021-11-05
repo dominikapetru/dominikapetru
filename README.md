@@ -7,5 +7,5 @@
 </p>
 <br />
   
-<p align="center">Enthusiastic data scientist and digital consultant since 2021 using Python. Collaborative intelligence applied.</p>
+<p align="center">Enthusiastic Data Scientist and Digital Consultant since 2021 using Python. Collaborative intelligence applied.</p>
 <br />
