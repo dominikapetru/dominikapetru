@@ -15,7 +15,7 @@
   
 <p align="center">
   <img width="400" src="https://github.com/dominikapetru/supervisat_regressio/blob/main/regression.jpg" />
-  <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/data.jpg" />
+  <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/heroku.jpg" />
   <a href="https://github.com/dominikapetru/supervisat_regressio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
   </a>
@@ -24,11 +24,11 @@
   </a>
   
   <img width="400" src="https://github.com/dominikapetru/supervisat_classificacio/blob/main/classification.jpg" />
-  <img width="400" src="https://github.com/dominikapetru/hypothesis-testing/blob/main/hypothesistesting.jpg" />
+  <img width="400" src="https://github.com/dominikapetru/hypothesis-testing/blob/main/clustering.jpg" />
   <a href="https://github.com/dominikapetru/supervisat_classificacio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_classificacio" />
   </a>
-  <a href="https://github.com/dominikapetru/hypothesis-testing">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=hypothesis-testing" />
+  <a href="https://github.com/dominikapetru/noSupervisat_Classificacio">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=noSupervisat_Classificacio" />
   </a>
 </p>
