@@ -24,7 +24,7 @@
   </a>
   
   <img width="400" src="https://github.com/dominikapetru/supervisat_classificacio/blob/main/classification.jpg" />
-  <img width="400" src="https://github.com/dominikapetru/hypothesis-testing/blob/main/clustering.jpg" />
+  <img width="400" src="https://github.com/dominikapetru/noSupervisat_Classificacio/blob/main/clustering.jpg" />
   <a href="https://github.com/dominikapetru/supervisat_classificacio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_classificacio" />
   </a>
