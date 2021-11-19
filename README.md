@@ -24,12 +24,12 @@
   </a>
   
   <img width="400" src="https://github.com/dominikapetru/supervisat_classificacio/blob/main/classification.jpg" />
-  <img width="400" src="https://github.com/dominikapetru/noSupervisat_Classificacio/blob/main/clustering.jpg" />
+  <img width="400" src="https://github.com/dominikapetru/no_supervisat_classificacio/blob/main/clustering.jpg" />
   <a href="https://github.com/dominikapetru/supervisat_classificacio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_classificacio" />
   </a>
-  <a href="https://github.com/dominikapetru/noSupervisat_Classificacio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=noSupervisat_Classificacio" />
+  <a href="https://github.com/dominikapetru/no_supervisat_classificacio">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=no_supervisat_classificacio" />
   </a>
   
   <img width="400" src="https://github.com/dominikapetru/Machine-Learning-avanced/blob/main/pipelines.jpg" />
