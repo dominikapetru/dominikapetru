@@ -34,10 +34,10 @@
   
   <img width="400" src="https://github.com/dominikapetru/Machine-Learning-avanced/blob/main/pipelines.jpg" />
   <img width="400" src="https://github.com/dominikapetru/web_scraping/blob/main/webscraping.jpg" />
-  <a href="https://github.com/dominikapetru/supervisat_classificacio">
+  <a href="https://github.com/dominikapetru/Machine-Learning-avanced">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=Machine-Learning-avanced" />
   </a>
-  <a href="https://github.com/dominikapetru/noSupervisat_Classificacio">
+  <a href="https://github.com/dominikapetru/web_scraping">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=web_scraping" />
   </a>
 </p>
