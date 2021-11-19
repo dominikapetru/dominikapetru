@@ -38,6 +38,6 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=Machine-Learning-avanced" />
   </a>
   <a href="https://github.com/dominikapetru/noSupervisat_Classificacio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=webscraping" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=web_scraping" />
   </a>
 </p>
