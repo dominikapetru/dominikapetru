@@ -41,3 +41,13 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=web_scraping" />
   </a>
 </p>
+  
+<h2 align="center">About me</h2>
+<br />
+<p>
+Throughout my career path I have worked in a team as well as freelance. I am very versatile, accurate and always keen to improve myself.
+  
+Besides Python and its data science specific libraries I have some notions of SQL and MongoDB. My designer’s skills HTML5, CSS3 and Adobe Creative Suite have proven very useful for representing and fetching data.
+  
+From Girona - Spain, born in Czech Republic, also lived in the UK and Sweden.  
+</p>
