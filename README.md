@@ -16,7 +16,7 @@
 <p align="center">
   <img width="400" src="https://github.com/dominikapetru/supervisat_regressio/blob/main/regression.jpg" />
   <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/heroku.jpg" />
-  <a href="https://github.com/dominikapetru/supervisat_regressio">
+  <a href="https://github.com/dominikapetru/supervisat_regressio/blob/main/Sprint12_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
   </a>
   <a href="https://github.com/dominikapetru/app_mc">
