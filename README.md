@@ -14,12 +14,16 @@
 <br />
   
 <p align="center">
+  <a href="https://github.com/dominikapetru/supervisat_regressio/blob/main/Sprint12_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/supervisat_regressio/blob/main/regression.jpg" />
+  </a>
+  <a href="https://github.com/dominikapetru/app_mc/blob/main/app.py">
   <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/heroku.jpg" />
+  </a>
   <a href="https://github.com/dominikapetru/supervisat_regressio/blob/main/Sprint12_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
   </a>
-  <a href="https://github.com/dominikapetru/app_mc">
+  <a href="https://github.com/dominikapetru/app_mc/blob/main/app.py">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=app_mc" />
   </a>
   
