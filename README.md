@@ -43,13 +43,13 @@
   <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/machine_learning_avanced/blob/main/pipelines.jpg" />
   </a>
-  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.ipynb">
+  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.pdf">
   <img width="400" src="https://github.com/dominikapetru/web_scraping/blob/main/webscraping.jpg" />
   </a>
   <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=machine_learning_avanced" />
   </a>
-  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.ipynb">
+  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.pdf">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=web_scraping" />
   </a>
 </p>
