@@ -27,21 +27,29 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=app_mc" />
   </a>
   
+  <a href="https://github.com/dominikapetru/supervisat_classificacio/blob/main/Sprint13_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/supervisat_classificacio/blob/main/classification.jpg" />
+  </a>
+  <a href="https://github.com/dominikapetru/no_supervisat_classificacio/blob/main/Sprint15_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/no_supervisat_classificacio/blob/main/clustering.jpg" />
-  <a href="https://github.com/dominikapetru/supervisat_classificacio">
+  </a>
+  <a href="https://github.com/dominikapetru/supervisat_classificacio/blob/main/Sprint13_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_classificacio" />
   </a>
-  <a href="https://github.com/dominikapetru/no_supervisat_classificacio">
+  <a href="https://github.com/dominikapetru/no_supervisat_classificacio/blob/main/Sprint15_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=no_supervisat_classificacio" />
   </a>
   
+  <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/machine_learning_avanced/blob/main/pipelines.jpg" />
+  </a>
+  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.ipynb">
   <img width="400" src="https://github.com/dominikapetru/web_scraping/blob/main/webscraping.jpg" />
-  <a href="https://github.com/dominikapetru/machine_learning_avanced">
+  </a>
+  <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=machine_learning_avanced" />
   </a>
-  <a href="https://github.com/dominikapetru/web_scraping">
+  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=web_scraping" />
   </a>
 </p>
