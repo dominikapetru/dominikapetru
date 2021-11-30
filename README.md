@@ -79,6 +79,19 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=registre_de_logs" />
   </a>
   
+  <a href="https://github.com/dominikapetru/sampling/blob/main/Sprint6_T01.ipynb">
+  <img width="400" src="https://github.com/dominikapetru/sampling/blob/main/sampling.jpg" />
+  </a>
+  <a href="https://github.com/dominikapetru/visualitzacio_grafica_de_multiples_variables/blob/main/Sprint4_T02.ipynb">
+  <img width="400" src="https://github.com/dominikapetru/visualitzacio_grafica_de_multiples_variables/blob/main/visualization.jpg" />
+  </a>
+  <a href="https://github.com/dominikapetru/sampling/blob/main/Sprint6_T01.ipynb">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=sampling" />
+  </a>
+  <a href="https://github.com/dominikapetru/visualitzacio_grafica_de_multiples_variables/blob/main/Sprint4_T02.ipynb">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=visualitzacio_grafica_de_multiples_variables" />
+  </a>
+  
 </p>
   
 <h2 align="center">About me</h2>
