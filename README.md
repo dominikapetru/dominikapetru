@@ -14,17 +14,32 @@
 <br />
   
 <p align="center">
+  
+  
+  <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
+  <img width="400" src="https://github.com/dominikapetru/machine_learning_avanced/blob/main/pipelines.jpg" />
+  </a>
+  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.ipynb">
+  <img width="400" src="https://github.com/dominikapetru/web_scraping/blob/main/webscraping.jpg" />
+  </a>
+  <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=machine_learning_avanced" />
+  </a>
+  <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.ipynb">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=web_scraping" />
+  </a>
+  
+  <a href="https://github.com/dominikapetru/supervisat_regressio/blob/main/Sprint12_T01.ipynb">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
+  </a>
+  <a href="https://github.com/dominikapetru/app_mc/blob/main/app.py">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=app_mc" />
+  </a>
   <a href="https://github.com/dominikapetru/supervisat_regressio/blob/main/Sprint12_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/supervisat_regressio/blob/main/regression.jpg" />
   </a>
   <a href="https://github.com/dominikapetru/app_mc/blob/main/app.py">
   <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/heroku.jpg" />
-  </a>
-  <a href="https://github.com/dominikapetru/supervisat_regressio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_regressio" />
-  </a>
-  <a href="https://github.com/dominikapetru/app_mc">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=app_mc" />
   </a>
   
   <a href="https://github.com/dominikapetru/supervisat_classificacio/blob/main/Sprint13_T01.ipynb">
@@ -33,25 +48,13 @@
   <a href="https://github.com/dominikapetru/no_supervisat_classificacio/blob/main/Sprint15_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/no_supervisat_classificacio/blob/main/clustering.jpg" />
   </a>
-  <a href="https://github.com/dominikapetru/supervisat_classificacio">
+  <a href="https://github.com/dominikapetru/supervisat_classificacio/blob/main/Sprint13_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=supervisat_classificacio" />
   </a>
-  <a href="https://github.com/dominikapetru/no_supervisat_classificacio">
+  <a href="https://github.com/dominikapetru/no_supervisat_classificacio/blob/main/Sprint15_T01.ipynb">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=no_supervisat_classificacio" />
   </a>
-  
-  <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
-  <img width="400" src="https://github.com/dominikapetru/machine_learning_avanced/blob/main/pipelines.jpg" />
-  </a>
-  <a href="https://colab.research.google.com/drive/1I10ijW5pJbroXDUDBHvPYpqEJt8Ranvg">
-  <img width="400" src="https://github.com/dominikapetru/web_scraping/blob/main/webscraping.jpg" />
-  </a>
-  <a href="https://github.com/dominikapetru/machine_learning_avanced">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=machine_learning_avanced" />
-  </a>
-  <a href="https://github.com/dominikapetru/web_scraping">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=dominikapetru&repo=web_scraping" />
-  </a>
+ 
 </p>
   
 <h2 align="center">About me</h2>
