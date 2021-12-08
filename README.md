@@ -17,6 +17,13 @@
   <a href="https://github.com/dominikapetru/jump2digital/blob/main/Q-Commerce.ipynb">
   <img width="400" src="https://github.com/dominikapetru/jump2digital/blob/main/jump2digital.jpg" />
   </a>
+  <a href="https://github.com/dominikapetru/barcelona_data/blob/main/Project.ipynb">
+  <img width="400" src="https://github.com/dominikapetru/barcelona_data/blob/main/project.jpg" />
+  </a>
+  
+  <a href="https://github.com/dominikapetru/app_mc/blob/main/app.py">
+  <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/heroku.jpg" />
+  </a>
   <a href="https://github.com/dominikapetru/machine_learning_avanced/blob/main/Sprint16_T01.ipynb">
   <img width="400" src="https://github.com/dominikapetru/machine_learning_avanced/blob/main/pipelines.jpg" />
   </a>
@@ -28,8 +35,8 @@
   <img width="400" src="https://github.com/dominikapetru/base_de_dades_NoSQL/blob/main/nosql.jpg" />
   </a>
     
-  <a href="https://github.com/dominikapetru/app_mc/blob/main/app.py">
-  <img width="400" src="https://github.com/dominikapetru/app_mc/blob/main/heroku.jpg" />
+  <a href="https://github.com/dominikapetru/statistics/blob/main/Sprint7_T01.ipynb">
+  <img width="400" src="https://github.com/dominikapetru/statistics/blob/main/statistics.jpg" />
   </a>
   <a href="https://github.com/dominikapetru/web_scraping/blob/main/Sprint16_T02.ipynb">
   <img width="400" src="https://github.com/dominikapetru/web_scraping/blob/main/webscraping.jpg" />
