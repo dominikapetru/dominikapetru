@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/dominika-petru-creativity-innovation/"><img src="https://img.shields.io/badge/LinkedIn-2962FF?style=for-the-badge&logo=LinkedIn&logoColor=white alt="LinkedIn" /></a>&nbsp;
 </p>
 <br />
-<p align="center">Enthusiastic Data Scientist and Digital Consultant using Python with a strong background in design processes. Experience in digital transformation of business. Passionate about finding creative solutions, I've deployed web applications and also developed workflows of Power BI. Comfortable working with several libraries including Pandas, NumPy, SciPy, Matplotlib and SciKit-Learn.</p>
+<p align="left">Enthusiastic Data Scientist and Digital Consultant using Python with a strong background in design processes. Experience in digital transformation of business. Passionate about finding creative solutions, I've deployed web applications and also developed workflows of Power BI. Comfortable working with several libraries including Pandas, NumPy, SciPy, Matplotlib and SciKit-Learn.</p>
 <br />
   
 <h2 align="center">My projects</h2>
