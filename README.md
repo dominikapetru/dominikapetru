@@ -6,7 +6,9 @@
 <a href="https://www.linkedin.com/in/dominika-petru-creativity-innovation/"><img src="https://img.shields.io/badge/LinkedIn-2962FF?style=for-the-badge&logo=LinkedIn&logoColor=white alt="LinkedIn" /></a>&nbsp;
 </p>
 <br />
-<p align="left">Enthusiastic Data Scientist and Digital Consultant using Python with a strong background in design processes. Experience in digital transformation of business. Passionate about finding creative solutions, I've deployed web applications and also developed workflows of Power BI. Comfortable working with several libraries including Pandas, NumPy, SciPy, Matplotlib and SciKit-Learn.</p>
+<p align="left">Enthusiastic Data Scientist and Digital Consultant using Python with a strong background in design processes. Experience in digital transformation of business. 
+
+Passionate about finding creative solutions, I've deployed web applications and also developed workflows of Power BI. Comfortable working with several libraries including Pandas, NumPy, SciPy, Matplotlib and SciKit-Learn.</p>
 <br />
   
 <h2 align="center">My projects</h2>
@@ -67,9 +69,9 @@
 <h2 align="center">About me</h2>
 <br />
 <p>
-Throughout my career path I have worked in a team as well as freelance. I am very versatile, accurate and always keen to improve myself.
+Throughout my career path I have worked in a team as well as freelance. I am very attentive listener, well organized and always keen to improve myself. 
   
-Besides Python and its data science specific libraries I have some notions of SQL and MongoDB. My designer’s skills HTML5, CSS3 and Adobe Creative Suite have proven very useful for representing and fetching data.
+Besides Python, I have knowledge of MySQL and MongoDB. Also my designer’s skills HTML5, CSS3 and Adobe Creative Suite have proven very useful for fetching and representing data.
   
 From Girona - Spain, born in Czech Republic, also lived in the UK and Sweden.  
 </p>
