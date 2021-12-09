@@ -7,7 +7,7 @@
 </p>
 <br />
   
-<p align="center">Enthusiastic Data Scientist and Digital Consultant since 2021 using Python. I am passionate about finding creative solutions and helping people while using my technical skills.</p>
+<p align="center">Enthusiastic Data Scientist and Digital Consultant using Python. I am passionate about finding creative solutions and helping people while using my technical skills.</p>
 <br />
 
 <h2 align="center">My projects</h2>
