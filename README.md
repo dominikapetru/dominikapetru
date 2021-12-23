@@ -73,5 +73,5 @@ Throughout my career path I have worked in a team as well as freelance. I am ver
   
 Besides Python, I have knowledge of MySQL and MongoDB. Also my designer’s skills HTML5, CSS3 and Adobe Creative Suite have proven very useful for fetching and representing data.
   
-From Girona - Spain, born in Czech Republic, also lived in the UK and Sweden.  
+From Girona - Spain, born in Czech Republic, also lived in the UK and Sweden. Driven by curiosity and agility with empathy and ability to develop relationships. 
 </p>
