@@ -18,8 +18,8 @@ Passionate about finding creative solutions, I've deployed web applications and 
   <a href="https://github.com/dominikapetru/jump2digital/blob/main/Q-Commerce.ipynb">
   <img width="400" src="https://github.com/dominikapetru/jump2digital/blob/main/jump2digital.jpg" />
   </a>
-  <a href="https://github.com/dominikapetru/barcelona_data/blob/main/Project.ipynb">
-  <img width="400" src="https://github.com/dominikapetru/barcelona_data/blob/main/project.jpg" />
+  <a href="https://github.com/dominikapetru/it_project/blob/main/NFT_CryptoPunks.pdf">
+  <img width="400" src="https://github.com/dominikapetru/it_project/blob/main/project.jpg" />
   </a>
   
   <a href="https://github.com/dominikapetru/app_mc/blob/main/app.py">
